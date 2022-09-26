@@ -10,11 +10,12 @@ see attached  "talkie-install-6.jpg" printscreen.
 
 3) Compile and upload to your ESP32forth as usual
 
-4) Electric part  you can  listen with an earphone plugged into ADC output 
-of ESP32forth on PIN D25 
-or use  an active speaker with MIKE input.  you can plug directly GND and D25.
+4) Electric part  you can  listen with an earphone
+plugged into DAC output of the ESP32  on PIN D25.
+Or use  an active speaker with MIKE input.  you can plug directly GND and D25.
 or you can install a low pass filter with a 1K resistor and a 10mF cap. I tested
 both and both worked well with my speakers.
+
 
 5) When everything is plugged in , and Esp32forth starts fresh 
 you can begin testing  from the forth command line  some of the new words
