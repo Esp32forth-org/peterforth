@@ -26,3 +26,7 @@ use  "WORDS" to find more, or  read  the  userwords.h  to see the whole vocabula
 This is version #1  of   ESP32forth-Talkie  by PeterForth 
 soon watch the video demo on my channel  : https://www.youtube.com/c/PeterForth
 
+ follow more projects with ESP32forth -->  https://esp32.forth2020.org/
+ Join our Forth programming groups :
+https://www.facebook.com/groups/esp32a/
+https://www.facebook.com/groups/forth2020/
