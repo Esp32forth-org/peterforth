@@ -1,5 +1,5 @@
-Make ESP32forth finally TALK ! 
-==============================
+Make ESP32forth  TALK ! 
+======================= 
 
 
 1) install first the  TALKIE library, from the Arduino LIBRARY MANAGER
