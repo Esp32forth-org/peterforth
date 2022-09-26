@@ -4,7 +4,7 @@ Make ESP32forth  TALK !
 
 1) install first the  TALKIE library, from the Arduino LIBRARY MANAGER
 see attached  "talkie-install-6.jpg" printscreen. 
-![Alt text](/TALKIE-INSTALL-6.jpg?raw=true "1")
+![Alt text](https://github.com/Esp32forth-org/peterforth/blob/main/speaks/TALKIE-INSTALL-6.jpg?raw=true "1")
 
 2) Copy the attached  userwords.h, into your ESP32forth folder in the Arduino IDE.
 
