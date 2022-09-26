@@ -2,7 +2,7 @@ Make ESP32forth  TALK !
 ======================= 
 
 
-1) install first the  TALKIE library, from the Arduino LIBRARY MANAGER
+1)  first install the  TALKIE library, from the Arduino LIBRARY MANAGER
 see attached  "talkie-install-6.jpg" printscreen. 
 ![Alt text](https://github.com/Esp32forth-org/peterforth/blob/main/speaks/TALKIE-INSTALL-6.jpg?raw=true "1")
 
@@ -16,12 +16,12 @@ or use  an active speaker with MIKE input.  you can plug directly GND and D25.
 or you can install a low pass filter with a 1K resistor and a 10mF cap. I tested
 both and both worked well with my speakers.
 
-5) When everything is plugged, and Esp32forth starts 
-test from the command line  some of the new words
+5) When everything is plugged in , and Esp32forth starts fresh 
+you can begin testing  from the forth command line  some of the new words
 
 EMERGENCY   STOP  ONE TWO THREE  DANGER DANGER ....  
 
-make  WORDS to find more, or  read  the  userwords.h  to see the growing vocabulary.
+use  "WORDS" to find more, or  read  the  userwords.h  to see the whole vocabulary.
 
 This is version #1  of   ESP32forth-Talkie  by PeterForth 
 soon watch the video demo on my channel  : https://www.youtube.com/c/PeterForth
