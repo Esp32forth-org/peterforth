@@ -25,9 +25,10 @@ EMERGENCY   STOP  ONE TWO THREE  DANGER DANGER ....
 use  "WORDS" to find more, or  read  the  userwords.h  to see the whole vocabulary.
 
 This is version #1  of   ESP32forth-Talkie  by PeterForth 
-soon watch the video demo on my channel  : https://www.youtube.com/c/PeterForth
+listen to the demo on my channel  : https://www.youtube.com/watch?v=F2yYtf-AOac
 
- follow more projects with ESP32forth -->  https://esp32.forth2020.org/
+ follow more projects with ESP32forth -->  
+ https://esp32.forth2020.org/
  Join our Forth programming groups :
 https://www.facebook.com/groups/esp32a/
 https://www.facebook.com/groups/forth2020/
