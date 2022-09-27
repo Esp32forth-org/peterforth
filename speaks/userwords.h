@@ -246,7 +246,7 @@ Talkie voice;
      Y(TRUE, voice.say(  sp4_TRUE ); NIP ) \           
      Y(PRESSURE, voice.say(  sp4_PRESSURE ); NIP ) \           
      Y(CENTRE, voice.say(  sp4_CENTRE ); NIP ) \       
-     Y(BASE, voice.say(  sp4_BASE ); NIP ) \  
+     Y(BASE_, voice.say(  sp4_BASE ); NIP ) \  
      Y(MEASURE, voice.say(  sp2_MEASURE ); NIP ) \         
      Y(MEASURED, voice.say(  sp4_MEASURED ); NIP ) \ 
      Y(LEFT, voice.say(  sp4_LEFT ); NIP ) \           
