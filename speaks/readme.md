@@ -1,8 +1,11 @@
 Make ESP32forth  TALK ! 
 ======================= 
 
+1) First install  ESP32forth into your ESP32 DOIT KIT Nodemcu or any other 
+follow the steps on our  site  https://esp32.forth2020.org/installation#h.398p2g9e9zae
 
-1)  first install the  TALKIE library, from the Arduino LIBRARY MANAGER
+
+2)   install the  TALKIE library, from the Arduino LIBRARY MANAGER
 see attached  "talkie-install-6.jpg" printscreen. 
 ![Alt text](https://github.com/Esp32forth-org/peterforth/blob/main/speaks/TALKIE-INSTALL-6.jpg?raw=true "1")
 
