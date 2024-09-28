@@ -1,4 +1,4 @@
-by Peter Forth
+#by Peter Forth
 
 This version of ESP32forth (by Brad Nelson) 
 has been prepared exclusively for the ESP32-C3 model.
